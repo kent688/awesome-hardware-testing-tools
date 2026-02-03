@@ -63,3 +63,14 @@ Tools to test microphone input and speaker output.
 
 Contributions are welcome!  
 Feel free to open an issue or submit a pull request to add more useful hardware testing tools.
+
+---
+
+## Related Awesome Lists
+
+- [Awesome Browser Testing Tools](https://github.com/你的用户名/awesome-browser-testing-tools)  
+  A focused list of browser-based testing tools.
+
+- [Awesome Input Device Testing](https://github.com/你的用户名/awesome-input-device-testing)  
+  Tools specifically for testing mouse, keyboard, and audio devices.
+
